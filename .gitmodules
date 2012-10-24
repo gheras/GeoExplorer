@@ -16,9 +16,9 @@
 [submodule "app/static/externals/PrintPreview"]
 	path = app/static/externals/PrintPreview
 	url = git://github.com/GeoNode/PrintPreview.git
-[submodule "externals/stick"]
-	path = externals/stick
-	url = https://github.com/hns/stick.git
 [submodule "externals/ringojs-fork"]
 	path = externals/ringojs-fork
 	url = git://github.com/tschaub/ringojs.git
+[submodule "externals/stick"]
+	path = externals/stick
+	url = git://github.com/hns/stick.git
